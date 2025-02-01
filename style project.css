@@ -1,0 +1,48 @@
+body{
+    background-image: url('circles-background-dark-tones_60389-166.png') ;
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 50px;
+    color: #2c2cec;
+    border: 2px dotted;
+    background-color: hsla(0, 0%, 0%, 0.664);
+    padding: 10px;
+    box-sizing: border-box;
+}
+.h3{
+    font-size: 20px;
+
+}
+h4{
+    font-size: 15px;
+
+}
+ul li{
+    color: grey;
+    list-style-type: circle;
+}
+a{
+    text-decoration: none;
+}
+button{
+    padding: 10px;
+
+    text-align: center;
+    border: none;
+    color: gray;
+    float:right;
+    
+}
+button:hover{
+    cursor: pointer;
+    font-size:15px;
+    background-color: rgb(49, 49, 220);
+    
+}

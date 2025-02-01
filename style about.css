@@ -1,0 +1,63 @@
+body{
+    background-image: url('top-view-agenda-glasses-pencil_23-2148459513.jpg');
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 50px;
+    color: #2c2cec;
+    border: 2px dotted;
+    background-color: hsla(0, 0%, 0%, 0.664);
+    padding: 10px;
+    box-sizing: border-box;
+}
+span{
+    font-size: 40px;
+    font-style: normal;
+    color: hsl(240, 76%, 62%);
+    float: left;
+    margin-right: 3opx;
+    
+
+}
+span:hover{
+    font-size: 50px;
+    background-color: rgba(0, 0, 0, 0.776);
+}
+h3{
+    font-family: serif;
+    font-size: 30px;
+    color: hsl(240, 94%, 54%);
+    text-align: left;
+}
+#about{
+    font-size: 20px;
+    color: grey;
+    text-align: justify;
+    
+
+}
+ul li{
+    color: gray;
+    list-style: circle;
+    
+  
+}
+#skill li {
+color: rgb(103, 103, 236);
+
+}
+a{
+   text-decoration: dashed;
+   color: rgb(120, 120, 249);
+
+}
+a:hover{
+    color: rgb(10, 10, 250);
+    font-style: italic;
+    font-size: 25px;
+}

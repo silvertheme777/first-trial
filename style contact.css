@@ -1,0 +1,58 @@
+body{
+    background-image: url('dark-blue-memphis-facebook-story-background-vector_53876-162121.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+h3{
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 50px;
+    color: #2c2cec;
+    border: 2px dotted;
+    background-color: hsla(0, 0%, 0%, 0.664);
+    padding: 10px;
+    box-sizing: border-box;
+}
+h4{
+    font-weight:bold ;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(48, 48, 220);
+
+}
+#p1{
+    font-size:20px ;
+    color: grey;
+
+}
+
+ul li{
+    color:grey;
+    list-style-type: circle;
+    font-size: 15px;
+    margin-left: 300px;
+
+}
+ul li:hover{
+    font-size: 30px;
+    color:blue;
+    font-style: italic;
+    background-color: black;
+}
+#p2{
+    font-size:20px ;
+    color: grey;
+
+}
+.link{
+    text-decoration: none;
+    cursor: pointer;
+    color: powderblue;
+    
+}
+.link:hover{
+    text-decoration: dotted;
+}
